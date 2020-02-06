@@ -1,0 +1,18 @@
+{
+  "name": "nodepgprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "manteza-prob": "node manteza-prob6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
